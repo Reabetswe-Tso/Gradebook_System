@@ -47,17 +47,17 @@ A desktop application built with Python and SQLite that allows teachers and stud
 3.python main.py
 ---
 ## How It Works
-** On startup, users are prompted to log in as a teacher or student. **
+- On startup, users are prompted to log in as a teacher or student. 
 
-** Teachers can add or edit grades for all students. **
+- Teachers can add or edit grades for all students. 
 
-** Students can view their own grades and averages. **
+- Students can view their own grades and averages. 
 
-** Reports can be exported to CSV for record keeping. **
+- Reports can be exported to CSV for record keeping. 
 
 ## Future Improvements
-** Add password encryption for secure authentication **
+- Add password encryption for secure authentication 
 
-** Include more detailed student profiles **
+- Include more detailed student profiles 
 
-** Implement a web-based version for broader access **
+- Implement a web-based version for broader access 
